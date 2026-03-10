@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772657114139,
+      "tag": "0000_mean_shiver_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772748625635,
+      "tag": "0001_married_malcolm_colcord",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772749072796,
+      "tag": "0002_spooky_exodus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772833228209,
+      "tag": "0003_wet_praxagora",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1772835640990,
+      "tag": "0004_overrated_luminals",
+      "breakpoints": true
+    }
+  ]
+}
